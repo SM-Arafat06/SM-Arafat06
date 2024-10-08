@@ -60,7 +60,7 @@
 
 ###
 
-<h5 align="left">Stay with me</h5>
+<p align="left">Stay with me</p>
 
 ###
 
