@@ -85,3 +85,15 @@
 <img src="https://raw.githubusercontent.com/SM-Arafat06/SM-Arafat06/output/snake.svg" alt="Snake animation" />
 
 ###
+
+<div align="center">
+  <img height="200" src="./assets/banner.png"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/SM-Arafat06/count.svg?"  />
+</div>
+
+###
