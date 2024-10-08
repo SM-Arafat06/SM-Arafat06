@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">I love lerning and sharing knowledge, About Programing and Computer Science.<br><br>♥️  I enjoy programming and sharing knowledge<br>💻  Most fevourite line of code print("hello world")<br>🤔  I’m looking for people who can help me to learn code.<br>📧  How to reach me: smartarafat06@gmail.com</p>
+<p align="left">I love lerning and sharing knowledge, About Programing and Computer Science.<br><br>♥️  I enjoy programming and sharing knowledge<br>💻  Most fevourite line of code print("hello world")<br>🤔  I’m looking for people who can help me to learn code.<br>📧  How to reach me: url(smartarafat06@gmail.com)</p>
 
 ###
 
