@@ -82,9 +82,7 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/sakibtalukqder/sakibtalukqder/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/SM-Arafat06/SM-Arafat06/output/snake.svg" alt="Snake animation" />
 
 ###
 
